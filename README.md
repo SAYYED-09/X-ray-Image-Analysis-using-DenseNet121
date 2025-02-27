@@ -58,8 +58,8 @@ To run the notebook in **Google Colab**, click the button below:
 
 ## 📬 Contact
 For any queries, feel free to reach out:
-- **GitHub**: [your-username](https://github.com/SAYYED-09)
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/sayyedhamidali?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **GitHub**: [SAYYED-09](https://github.com/SAYYED-09)
+- **LinkedIn**: [Sayyed Hamidali](https://www.linkedin.com/in/sayyedhamidali?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 💡 _This project is part of my internship at **Postulate Info Tech**._
